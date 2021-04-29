@@ -40,3 +40,7 @@ tersebut ditangani oleh Retrofit. kita akan mencoba mengambil data dari
 http://www.omdbapi.com/?s=batman&apikey=2268147d
 
 #### Result
+![Alt Text](https://github.com/adam033/Movie/blob/main/Screenshot%20(679).png)
+![Alt Text](https://github.com/adam033/Movie/blob/main/Screenshot%20(680).png)
+
+###### Thanks
