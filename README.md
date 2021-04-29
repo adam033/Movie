@@ -1,5 +1,5 @@
 # Movie
-### RestAPI
+## RestAPI
 API adalah singkatan dari Application Programming Interface yaitu sebuah software 
 yang memungkinkan para developer untuk mengintegrasikan dan mengizinkan dua aplikasi yang 
 berbeda secara bersamaan untuk saling terhubung satu sama lain.
@@ -43,4 +43,4 @@ http://www.omdbapi.com/?s=batman&apikey=2268147d
 ![Alt Text](https://github.com/adam033/Movie/blob/main/Screenshot%20(679).png)
 ![Alt Text](https://github.com/adam033/Movie/blob/main/Screenshot%20(680).png)
 
-###### Thanks
+### Thanks
